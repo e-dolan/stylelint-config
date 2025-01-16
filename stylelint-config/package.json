@@ -1,0 +1,27 @@
+{
+  "name": "@e-dolan/stylelint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-dolan/stylelint-config.git"
+  },
+  "author": "Emma Dolan",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-prettier": ">=9.0.0",
+    "stylelint-order": ">=5.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">=14.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/e-dolan/stylelint-config.git/issues"
+  },
+  "homepage": "https://github.com/e-dolan/stylelint-config.git#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
